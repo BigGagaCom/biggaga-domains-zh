@@ -33,3 +33,14 @@
 📧 联系方式
 
 如需域名咨询或合作机会，请联系: **domains@biggaga.com**
+
+## 🌍 Explore BigGaga Domains in Other Languages
+
+- [English (EN)](https://github.com/BigGagaCom/biggaga-domains-en)
+- [Deutsch (DE)](https://github.com/BigGagaCom/biggaga-domains-de)
+- [Français (FR)](https://github.com/BigGagaCom/biggaga-domains-fr)
+- [Español (ES)](https://github.com/BigGagaCom/biggaga-domains-es)
+- [العربية (AR)](https://github.com/BigGagaCom/biggaga-domains-ar)
+- [हिन्दी (HI)](https://github.com/BigGagaCom/biggaga-domains-hi)
+- [中文 (ZH)](https://github.com/BigGagaCom/biggaga-domains-zh)
+
