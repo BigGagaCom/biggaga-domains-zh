@@ -34,7 +34,7 @@
 
 如需域名咨询或合作机会，请联系: **domains@biggaga.com**
 
-## 🌍 Explore BigGaga Domains in Other Languages
+## 🌍 E探索 BigGaga 域名的其他语言版本
 
 - [English (EN)](https://github.com/BigGagaCom/biggaga-domains-en)
 - [Deutsch (DE)](https://github.com/BigGagaCom/biggaga-domains-de)
